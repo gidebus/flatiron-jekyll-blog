@@ -1,11 +1,11 @@
 # Site settings
-author: immutable-integer-8885
-title: 
+author: G Del Busto
+title: Flatiron Blog
 header-img: img/home-bg.png
 email: gidelbusto@gmail.com
-copyright_name: immutable-integer-8885
+copyright_name: G Del Busto
 description: > # this means to ignore newlines until "baseurl:"
-  
+  G's Blog
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  GiDeBus
